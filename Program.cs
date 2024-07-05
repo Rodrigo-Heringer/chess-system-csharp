@@ -1,4 +1,3 @@
 ﻿using tabuleiro;
 
-Posicao posicao = new(3, 4);
-Console.WriteLine($"Posição: {posicao}");
+Tabuleiro _ = new(8, 8);
