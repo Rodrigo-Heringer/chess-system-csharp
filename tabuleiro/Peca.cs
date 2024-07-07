@@ -15,5 +15,9 @@
             this.Cor = cor;
             this.QteMovimentos = 0;
         }
+
+        public void IncrementarQteMovimentos() { 
+            QteMovimentos++; 
+        }
     }
 }
